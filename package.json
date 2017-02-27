@@ -1,0 +1,25 @@
+{
+  "name": "days-of-week",
+  "version": "0.0.1",
+  "description": "get days of week",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "week",
+    "days"
+  ],
+  "dependencies": {
+    "week": "0.2.0"
+  },
+  "author": {
+    "name": "supersky07",
+    "email": "supersky07@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supersky07/days-of-week.git"
+  },
+  "license": "MIT"
+}
